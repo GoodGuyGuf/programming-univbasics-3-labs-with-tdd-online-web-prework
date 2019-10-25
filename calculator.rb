@@ -2,4 +2,4 @@
 
 ./calculator.rb
 
-first_number
+first_number = 
