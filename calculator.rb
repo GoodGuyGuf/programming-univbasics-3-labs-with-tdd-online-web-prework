@@ -1,6 +1,6 @@
 # Add your variables here
 
-./calculator.rb
+/calculator.rb
 
 first_number = 1 
 second_number = 3
